@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cbre_accept" translatable="false">Accept</string>
+    <string name="cbre_cancel" translatable="false">Cancel</string>
+    <string name="cbre_terms_of_service" translatable="false">Terms Of Service</string>
+    <string name="cbre_terms_of_service_subtitle" translatable="false">By clicking {accept}, you agree to our {terms}Terms of Service{/terms} and confirm that you have read our {privacy}Privacy Policy{/privacy}.</string>
+</resources>
